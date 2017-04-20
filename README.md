@@ -1,4 +1,2 @@
 # Geebrox Role Play
-***
-Проект находится в стадии разработке.
-***
+![Geebrox Role Play](http://i.imgur.com/wpNWLBA.jpg)
